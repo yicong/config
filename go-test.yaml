@@ -1,2 +1,2 @@
-city=shanghai-jingan
-from=jingan.shanghai.china.asia
+city: shanghai-jingan
+from: 'jingan.shanghai.china.asia'
